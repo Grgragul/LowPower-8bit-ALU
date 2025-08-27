@@ -3,7 +3,7 @@
 This repository contains my internship project on designing a low-power 8-bit Arithmetic Logic Unit (ALU) using Verilog, ModelSim, Vivado, and Microwind.
 
 ## 📄 Project Report
-- [Download Report (PDF)](Low Power Alu Report.pdf)
+- [Download Report (PDF)](LowPowerAluReport.pdf)
 
 ## 🔧 Tools Used
 - Verilog HDL (RTL Design)
